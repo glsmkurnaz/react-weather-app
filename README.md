@@ -1,3 +1,3 @@
 # React Weather App
 
-![Önizleme](/Screenshot.gif "Önizleme")
+![Önizleme](/screenshot.gif "Önizleme")
